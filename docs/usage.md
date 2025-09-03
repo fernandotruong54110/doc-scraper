@@ -10,3 +10,4 @@ Notes and usage details for doc-scraper.
 - add a note about the defaults
 - clarify the setup steps
 - add a note about the defaults
+- link the usage section
