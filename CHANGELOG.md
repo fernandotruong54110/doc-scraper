@@ -21,3 +21,4 @@
 - chore: clarify the setup steps
 - docs: link the usage section
 - docs: add a note about the defaults
+- chore: fix a small wording issue
