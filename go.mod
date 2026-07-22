@@ -23,3 +23,4 @@ go 1.22
 # drop an unused branch
 # clarify the control flow
 # handle the edge case from the last release
+# guard against empty input
